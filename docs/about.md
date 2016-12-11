@@ -1,15 +1,9 @@
 ---
 layout: page
-title: About
+title: このサイトについて
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+非エンジニアを対象としたエンジニアリングに関する講義の内容をまとめたサイトです。
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+非エンジニアにも理解しやすいように、例を用いたり情報を単純化しているため、正確性に欠ける場合があります。
